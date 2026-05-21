@@ -1,0 +1,131 @@
+{
+  "count": 25,
+  "items": [
+    {
+      "name": "Aesthetic Tale",
+      "style": "aesthetic-tale",
+      "category": "aesthetic"
+    },
+    {
+      "name": "Stylish Bold",
+      "style": "stylish-bold",
+      "category": "stylish"
+    },
+    {
+      "name": "Gothic Bold",
+      "style": "gothic-bold",
+      "category": "stylish"
+    },
+    {
+      "name": "Modern Sans",
+      "style": "modern-sans",
+      "category": "stylish"
+    },
+    {
+      "name": "Cool Text",
+      "style": "cool-text",
+      "category": "stylish"
+    },
+    {
+      "name": "Fancy Bracketed",
+      "style": "fancy-bracketed",
+      "category": "special"
+    },
+    {
+      "name": "Special Enclosed",
+      "style": "special-enclosed",
+      "category": "special"
+    },
+    {
+      "name": "Aesthetic Script",
+      "style": "aesthetic-script",
+      "category": "aesthetic"
+    },
+    {
+      "name": "Elegant Caps",
+      "style": "elegant-caps",
+      "category": "special"
+    },
+    {
+      "name": "Zalgo Basic",
+      "style": "zalgo-basic",
+      "category": "zalgo"
+    },
+    {
+      "name": "Zalgo Crazy",
+      "style": "zalgo-crazy",
+      "category": "zalgo"
+    },
+    {
+      "name": "Zalgo Dark",
+      "style": "zalgo-dark",
+      "category": "zalgo"
+    },
+    {
+      "name": "Cool Brackets",
+      "style": "cool-brackets",
+      "category": "special"
+    },
+    {
+      "name": "Dreamy Cursive",
+      "style": "dreamy-cursive",
+      "category": "aesthetic"
+    },
+    {
+      "name": "Pretty Swirls",
+      "style": "pretty-swirls",
+      "category": "aesthetic"
+    },
+    {
+      "name": "Fancy Boxed",
+      "style": "fancy-boxed",
+      "category": "stylish"
+    },
+    {
+      "name": "Unique Style",
+      "style": "unique-style",
+      "category": "special"
+    },
+    {
+      "name": "Zalgo Strike",
+      "style": "zalgo-strike",
+      "category": "zalgo"
+    },
+    {
+      "name": "Zalgo Glitch",
+      "style": "zalgo-glitch",
+      "category": "zalgo"
+    },
+    {
+      "name": "Tiny Text",
+      "style": "tiny-text",
+      "category": "other"
+    },
+    {
+      "name": "Wide Style",
+      "style": "wide-style",
+      "category": "other"
+    },
+    {
+      "name": "Upside Down",
+      "style": "upside-down",
+      "category": "other"
+    },
+    {
+      "name": "Slashed Text",
+      "style": "slashed-text",
+      "category": "other"
+    },
+    {
+      "name": "Lovely Script",
+      "style": "lovely-script",
+      "category": "aesthetic"
+    },
+    {
+      "name": "Vaporwave Style",
+      "style": "vaporwave-style",
+      "category": "other"
+    }
+  ],
+  "source": "https://emojiio.com"
+}
