@@ -1,0 +1,809 @@
+{
+  "category": "symbols",
+  "name": "Symbols",
+  "total_symbols": 5030,
+  "sample_symbols": [
+    {
+      "char": "🇰",
+      "name": "Region Indicator Letter K",
+      "slug": "regional-indicator-symbol-letter-k",
+      "code_point": "U+1F1F0",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇵",
+      "name": "Regional Indicator Letter P",
+      "slug": "regional-indicator-symbol-letter-p",
+      "code_point": "U+1F1F5",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇻",
+      "name": "The regional indicator letter \"V\"",
+      "slug": "regional-indicator-symbol-letter-v",
+      "code_point": "U+1F1FB",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇽",
+      "name": "Regional Indicator Symbol Letter X",
+      "slug": "regional-indicator-symbol-letter-x",
+      "code_point": "U+1F1FD",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇿",
+      "name": "The regional indication symbol letter is Z",
+      "slug": "regional-indicator-symbol-letter-z",
+      "code_point": "U+1F1FF",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇹",
+      "name": "Regional Indicator Symbol Letter T",
+      "slug": "regional-indicator-symbol-letter-t",
+      "code_point": "U+1F1F9",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇸",
+      "name": "Regional Indicator Letter S",
+      "slug": "regional-indicator-symbol-letter-s",
+      "code_point": "U+1F1F8",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇾",
+      "name": "Regional Indicator Symbol Letter Y",
+      "slug": "regional-indicator-symbol-letter-y",
+      "code_point": "U+1F1FE",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇼",
+      "name": "Regional Indicator W",
+      "slug": "regional-indicator-symbol-letter-w",
+      "code_point": "U+1F1FC",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇷",
+      "name": "The regional indication symbol letter is R",
+      "slug": "regional-indicator-symbol-letter-r",
+      "code_point": "U+1F1F7",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇺",
+      "name": "Regional Indicator Letter U",
+      "slug": "regional-indicator-symbol-letter-u",
+      "code_point": "U+1F1FA",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇶",
+      "name": "Region Indicator Letter Q",
+      "slug": "regional-indicator-symbol-letter-q",
+      "code_point": "U+1F1F6",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇴",
+      "name": "Regional Indicator O",
+      "slug": "regional-indicator-symbol-letter-o",
+      "code_point": "U+1F1F4",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇳",
+      "name": "Regional Indicator Letter N",
+      "slug": "regional-indicator-symbol-letter-n",
+      "code_point": "U+1F1F3",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇯",
+      "name": "Regional Indicator Letter J",
+      "slug": "regional-indicator-symbol-letter-j",
+      "code_point": "U+1F1EF",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇱",
+      "name": "Regional Indicator Letter L",
+      "slug": "regional-indicator-symbol-letter-l",
+      "code_point": "U+1F1F1",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇲",
+      "name": "The regional indication symbol letter M",
+      "slug": "regional-indicator-symbol-letter-m",
+      "code_point": "U+1F1F2",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇦",
+      "name": "Regional Indicator A",
+      "slug": "regional-indicator-symbol-letter-a",
+      "code_point": "U+1F1E6",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆤",
+      "name": "Box 120P",
+      "slug": "squared-one-hundred-twenty-p",
+      "code_point": "U+1F1A4",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇬",
+      "name": "Regional Indicator Symbol Letter G",
+      "slug": "regional-indicator-symbol-letter-g",
+      "code_point": "U+1F1EC",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇫",
+      "name": "Regional Indicator F",
+      "slug": "regional-indicator-symbol-letter-f",
+      "code_point": "U+1F1EB",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆫",
+      "name": "Box UHD",
+      "slug": "squared-uhd",
+      "code_point": "U+1F1AB",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆩",
+      "name": "Square Lossless",
+      "slug": "squared-lossless",
+      "code_point": "U+1F1A9",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆦",
+      "name": "Box HC",
+      "slug": "squared-hc",
+      "code_point": "U+1F1A6",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆜",
+      "name": "A second screen with a square frame",
+      "slug": "squared-second-screen",
+      "code_point": "U+1F19C",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇧",
+      "name": "Regional Indicator Letter B",
+      "slug": "regional-indicator-symbol-letter-b",
+      "code_point": "U+1F1E7",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇭",
+      "name": "The regional indication symbol letter H",
+      "slug": "regional-indicator-symbol-letter-h",
+      "code_point": "U+1F1ED",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆚",
+      "name": "Square VS",
+      "slug": "squared-vs",
+      "code_point": "U+1F19A",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇮",
+      "name": "Regional Indicator Letter I",
+      "slug": "regional-indicator-symbol-letter-i",
+      "code_point": "U+1F1EE",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆡",
+      "name": "Box 7.1",
+      "slug": "squared-seven-point-one",
+      "code_point": "U+1F1A1",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆪",
+      "name": "Square SHV",
+      "slug": "squared-shv",
+      "code_point": "U+1F1AA",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇨",
+      "name": "The regional indication symbol letter C",
+      "slug": "regional-indicator-symbol-letter-c",
+      "code_point": "U+1F1E8",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆥",
+      "name": "Boxed Latin Small Letter d",
+      "slug": "squared-latin-small-letter-d",
+      "code_point": "U+1F1A5",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆟",
+      "name": "Boxed 8K",
+      "slug": "squared-eight-k",
+      "code_point": "U+1F19F",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇪",
+      "name": "Regional indicator E",
+      "slug": "regional-indicator-symbol-letter-e",
+      "code_point": "U+1F1EA",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🇩",
+      "name": "Regional Indicator Symbol Letter D",
+      "slug": "regional-indicator-symbol-letter-d",
+      "code_point": "U+1F1E9",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆬",
+      "name": "Square VOD",
+      "slug": "squared-vod",
+      "code_point": "U+1F1AC",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆙",
+      "name": "The box with an exclamation mark is facing upwards",
+      "slug": "squared-up-with-exclamation-mark",
+      "code_point": "U+1F199",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆭",
+      "name": "Masked Work Symbol",
+      "slug": "mask-work-symbol",
+      "code_point": "U+1F1AD",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆧",
+      "name": "Box HDR",
+      "slug": "squared-hdr",
+      "code_point": "U+1F1A7",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆨",
+      "name": "HD Box",
+      "slug": "squared-hi-res",
+      "code_point": "U+1F1A8",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆞",
+      "name": "Square 4K",
+      "slug": "squared-four-k",
+      "code_point": "U+1F19E",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆛",
+      "name": "Squared Bold Capital D",
+      "slug": "squared-three-d",
+      "code_point": "U+1F19B",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆝",
+      "name": "Square 2K",
+      "slug": "squared-two-k",
+      "code_point": "U+1F19D",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆣",
+      "name": "Box Sixty P",
+      "slug": "squared-sixty-p",
+      "code_point": "U+1F1A3",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆢",
+      "name": "Box 222.2",
+      "slug": "squared-twenty-two-point-two",
+      "code_point": "U+1F1A2",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆠",
+      "name": "Box 5.1",
+      "slug": "squared-five-point-one",
+      "code_point": "U+1F1A0",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅼",
+      "name": "White-on-black square M",
+      "slug": "negative-squared-latin-capital-letter-m",
+      "code_point": "U+1F17C",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅾",
+      "name": "White Square Latin Capital O",
+      "slug": "negative-squared-latin-capital-letter-o",
+      "code_point": "U+1F17E",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅻",
+      "name": "Negative Squared Latin Capital Letter L",
+      "slug": "negative-squared-latin-capital-letter-l",
+      "code_point": "U+1F17B",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅿",
+      "name": "Negative Square Letter P",
+      "slug": "negative-squared-latin-capital-letter-p",
+      "code_point": "U+1F17F",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆂",
+      "name": "Negative Squared Latin Capital Letter S",
+      "slug": "negative-squared-latin-capital-letter-s",
+      "code_point": "U+1F182",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅸",
+      "name": "Negative squared Latin capital letter I",
+      "slug": "negative-squared-latin-capital-letter-i",
+      "code_point": "U+1F178",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆅",
+      "name": "White Square with Latin Capital Letter V",
+      "slug": "negative-squared-latin-capital-letter-v",
+      "code_point": "U+1F185",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆋",
+      "name": "White-on-Black IC Square",
+      "slug": "negative-squared-ic",
+      "code_point": "U+1F18B",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅽",
+      "name": "Inverted Square N",
+      "slug": "negative-squared-latin-capital-letter-n",
+      "code_point": "U+1F17D",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅺",
+      "name": "Negative Square Latin Capital Letter K",
+      "slug": "negative-squared-latin-capital-letter-k",
+      "code_point": "U+1F17A",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆆",
+      "name": "The negative side has the Latin capital letter \"W\"",
+      "slug": "negative-squared-latin-capital-letter-w",
+      "code_point": "U+1F186",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆓",
+      "name": "Free Box",
+      "slug": "squared-free",
+      "code_point": "U+1F193",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆁",
+      "name": "White Square Latin R",
+      "slug": "negative-squared-latin-capital-letter-r",
+      "code_point": "U+1F181",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆖",
+      "name": "Squared NG",
+      "slug": "squared-ng",
+      "code_point": "U+1F196",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅹",
+      "name": "Inverted White Square Latin Capital J",
+      "slug": "negative-squared-latin-capital-letter-j",
+      "code_point": "U+1F179",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆄",
+      "name": "Squared Capital U",
+      "slug": "negative-squared-latin-capital-letter-u",
+      "code_point": "U+1F184",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆊",
+      "name": "Crossed Negative Square Latin Capital Letter P",
+      "slug": "crossed-negative-squared-latin-capital-letter-p",
+      "code_point": "U+1F18A",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆍",
+      "name": "Negative Squared SA",
+      "slug": "negative-squared-sa",
+      "code_point": "U+1F18D",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆇",
+      "name": "Squared Latin capital X",
+      "slug": "negative-squared-latin-capital-letter-x",
+      "code_point": "U+1F187",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆉",
+      "name": "Negative Framed Latin Capital Letter Z",
+      "slug": "negative-squared-latin-capital-letter-z",
+      "code_point": "U+1F189",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆃",
+      "name": "White Square Latin Capital Letter T",
+      "slug": "negative-squared-latin-capital-letter-t",
+      "code_point": "U+1F183",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆌",
+      "name": "The inverted white box PA",
+      "slug": "negative-squared-pa",
+      "code_point": "U+1F18C",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆔",
+      "name": "Box ID",
+      "slug": "squared-id",
+      "code_point": "U+1F194",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆈",
+      "name": "The reverse white box contains the Latin capital letter \"Y\"",
+      "slug": "negative-squared-latin-capital-letter-y",
+      "code_point": "U+1F188",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆐",
+      "name": "Square DJ",
+      "slug": "square-dj",
+      "code_point": "U+1F190",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆀",
+      "name": "The reverse white square Latin capital letter \"Q\"",
+      "slug": "negative-squared-latin-capital-letter-q",
+      "code_point": "U+1F180",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆘",
+      "name": "Square SOS",
+      "slug": "squared-sos",
+      "code_point": "U+1F198",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆎",
+      "name": "Negative Square AB",
+      "slug": "negative-squared-ab",
+      "code_point": "U+1F18E",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆗",
+      "name": "Box OK",
+      "slug": "squared-ok",
+      "code_point": "U+1F197",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🆏",
+      "name": "Negative Box WC",
+      "slug": "negative-squared-wc",
+      "code_point": "U+1F18F",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅨",
+      "name": "Circled Capital Letter Y",
+      "slug": "negative-circled-latin-capital-letter-y",
+      "code_point": "U+1F168",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅡",
+      "name": "Negative Circled Latin Capital R",
+      "slug": "negative-circled-latin-capital-letter-r",
+      "code_point": "U+1F161",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅳",
+      "name": "Squared Latin Capital Letter D (Negative)",
+      "slug": "negative-squared-latin-capital-letter-d",
+      "code_point": "U+1F173",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅝",
+      "name": "Encircled Negative Latin Capital Letter N",
+      "slug": "negative-circled-latin-capital-letter-n",
+      "code_point": "U+1F15D",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅪",
+      "name": "Superscript MC Symbol",
+      "slug": "raised-mc-sign",
+      "code_point": "U+1F16A",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅚",
+      "name": "The Latin capital letter \"K\" in the inverted white circle",
+      "slug": "negative-circled-latin-capital-letter-k",
+      "code_point": "U+1F15A",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅣",
+      "name": "The reverse white circle represents the Latin capital letter \"T\"",
+      "slug": "negative-circled-latin-capital-letter-t",
+      "code_point": "U+1F163",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅰",
+      "name": "Negative squared Latin A",
+      "slug": "negative-squared-latin-capital-letter-a",
+      "code_point": "U+1F170",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅴",
+      "name": "Negative Box Latin Capital E",
+      "slug": "negative-squared-latin-capital-letter-e",
+      "code_point": "U+1F174",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅢",
+      "name": "White Circle S",
+      "slug": "negative-circled-latin-capital-letter-s",
+      "code_point": "U+1F162",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅤",
+      "name": "Negative Circled Latin U",
+      "slug": "negative-circled-latin-capital-letter-u",
+      "code_point": "U+1F164",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅷",
+      "name": "Negative Squared Latin H",
+      "slug": "negative-squared-latin-capital-letter-h",
+      "code_point": "U+1F177",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅮",
+      "name": "Circled C with Backslash",
+      "slug": "circled-c-with-overlaid-backslash",
+      "code_point": "U+1F16E",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅩",
+      "name": "The Latin capital letter \"Z\" in the inverted white circle",
+      "slug": "negative-circled-latin-capital-letter-z",
+      "code_point": "U+1F169",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅠",
+      "name": "Negative Circled Latin Capital Letter Q",
+      "slug": "negative-circled-latin-capital-letter-q",
+      "code_point": "U+1F160",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅧",
+      "name": "Negative Circle Latin Capital X",
+      "slug": "negative-circled-latin-capital-letter-x",
+      "code_point": "U+1F167",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅱",
+      "name": "White Box Latin Capital B",
+      "slug": "negative-squared-latin-capital-letter-b",
+      "code_point": "U+1F171",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅭",
+      "name": "Circle CC",
+      "slug": "circled-cc",
+      "code_point": "U+1F16D",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅯",
+      "name": "Human figure with a circle",
+      "slug": "circled-human-figure",
+      "code_point": "U+1F16F",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅵",
+      "name": "Negative Squared Latin Capital F",
+      "slug": "negative-squared-latin-capital-letter-f",
+      "code_point": "U+1F175",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅬",
+      "name": "Superscript MR symbol",
+      "slug": "raised-mr-sign",
+      "code_point": "U+1F16C",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅛",
+      "name": "Squared L",
+      "slug": "negative-circled-latin-capital-letter-l",
+      "code_point": "U+1F15B",
+      "category": "symbols",
+      "unicode_version": null
+    },
+    {
+      "char": "🅜",
+      "name": "Negative Circled M",
+      "slug": "negative-circled-latin-capital-letter-m",
+      "code_point": "U+1F15C",
+      "category": "symbols",
+      "unicode_version": null
+    }
+  ],
+  "last_updated": "2026-05-21T16:44:17.916Z",
+  "source": "https://emojiio.com"
+}
