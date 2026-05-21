@@ -1,0 +1,371 @@
+{
+  "count": 73,
+  "items": [
+    {
+      "symbol": "┌─┐\n│✓│\n└─┘",
+      "name": "Corner Box",
+      "category": "borders"
+    },
+    {
+      "symbol": "▛▀▀▜\n▌Hi▐\n▙▄▄▟",
+      "name": "Thick Box",
+      "category": "borders"
+    },
+    {
+      "symbol": "╭──╮\n│OK│\n╰──╯",
+      "name": "Rounded Box",
+      "category": "borders"
+    },
+    {
+      "symbol": "╔══╗\n║Hi║\n╚══╝",
+      "name": "Simple Box",
+      "category": "borders"
+    },
+    {
+      "symbol": "🌸 ✿ 🌺",
+      "name": "Flower Mix",
+      "category": "sparkles"
+    },
+    {
+      "symbol": "✦",
+      "name": "Star Bullet",
+      "category": "bullets"
+    },
+    {
+      "symbol": "❖",
+      "name": "Diamond Bullet",
+      "category": "bullets"
+    },
+    {
+      "symbol": "☙",
+      "name": "Petal Bullet",
+      "category": "bullets"
+    },
+    {
+      "symbol": "*· * ·",
+      "name": "Dot",
+      "category": "star"
+    },
+    {
+      "symbol": "╔════╗\n║Text║\n╚════╝",
+      "name": "Wide Box",
+      "category": "borders"
+    },
+    {
+      "symbol": "═══════",
+      "name": "Double Line",
+      "category": "dividers"
+    },
+    {
+      "symbol": "━━━━━━━",
+      "name": "Heavy Line",
+      "category": "dividers"
+    },
+    {
+      "symbol": "─══─══─",
+      "name": "Pattern Line",
+      "category": "dividers"
+    },
+    {
+      "symbol": "♡ ♥ ♡",
+      "name": "Heart Decor",
+      "category": "other"
+    },
+    {
+      "symbol": "☾ ★ ☽",
+      "name": "Moon Stars",
+      "category": "other"
+    },
+    {
+      "symbol": "☁️ ☀️ ☁️",
+      "name": "Cloud Sky",
+      "category": "other"
+    },
+    {
+      "symbol": "〰️〜〰️",
+      "name": "Wave Decor",
+      "category": "other"
+    },
+    {
+      "symbol": "✩",
+      "name": "Astral Outlined Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✯",
+      "name": "Black Centre Star",
+      "category": "star"
+    },
+    {
+      "symbol": "☆",
+      "name": "Side",
+      "category": "star"
+    },
+    {
+      "symbol": "✧",
+      "name": "Gleaming White Four Pointed Star",
+      "category": "star"
+    },
+    {
+      "symbol": "⋆",
+      "name": "Top",
+      "category": "star"
+    },
+    {
+      "symbol": "✨",
+      "name": "Bottom",
+      "category": "star"
+    },
+    {
+      "symbol": "★",
+      "name": "Sparkling Black Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✡",
+      "name": "Central",
+      "category": "star"
+    },
+    {
+      "symbol": "⁂",
+      "name": "Corner",
+      "category": "star"
+    },
+    {
+      "symbol": "⁑",
+      "name": "Inner",
+      "category": "star"
+    },
+    {
+      "symbol": "✭",
+      "name": "Shining Outlined Black Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✮",
+      "name": "Shadowed Star",
+      "category": "star"
+    },
+    {
+      "symbol": "🌠",
+      "name": "Left",
+      "category": "star"
+    },
+    {
+      "symbol": "⋆. ┊",
+      "name": "Grouped Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "✦⋆✦⋆",
+      "name": "Glowing Black Four Pointed Star Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "¸.*★*.¸",
+      "name": "Twinkling Black Star",
+      "category": "star"
+    },
+    {
+      "symbol": "➶–͙˚ ༘✶",
+      "name": "Six Pointed Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✱ੈ✩‧₊˚",
+      "name": "Shining Outlined Star Heavy Asterisk",
+      "category": "star"
+    },
+    {
+      "symbol": "⋆.˚ ༘ *",
+      "name": "Isolated Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "⋆˖*°࿐",
+      "name": "Layered Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "┊͙⋆˖*°࿐",
+      "name": "Flat Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "┊ ┊⋆ ┊ ┊",
+      "name": "Dynamic Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "｡･:*˚:⋆｡",
+      "name": "Static Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "·•*•·•*•·",
+      "name": "Decoration Dot",
+      "category": "star"
+    },
+    {
+      "symbol": "＊✱•̩̩͙✩•̩̩͙✱˚",
+      "name": "Glowing Outlined Star Heavy Asterisk",
+      "category": "star"
+    },
+    {
+      "symbol": "✬ word ✬",
+      "name": "Shining Black Centre Star",
+      "category": "star"
+    },
+    {
+      "symbol": "ﾟ･*:.｡*:ﾟ･❤",
+      "name": "Long Heart",
+      "category": "star"
+    },
+    {
+      "symbol": "★。*。★。",
+      "name": "Stellar Black Star",
+      "category": "star"
+    },
+    {
+      "symbol": "☾ ⋆✱･ﾟ:⋆✱･ﾟ",
+      "name": "Decoration Star Operator Heavy Asterisk",
+      "category": "star"
+    },
+    {
+      "symbol": "✫",
+      "name": "Shining Circled Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✸➜➜⛤←←✸",
+      "name": "Heavy Eight Pointed Star Left Arrow",
+      "category": "star"
+    },
+    {
+      "symbol": "❝ ❞ ⋆ ೃ༄",
+      "name": "Bold Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "｡.•*¨*•♬⋆",
+      "name": "Music Note Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "⋆♬•*¨*•.｡",
+      "name": "Lightweight Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "☆｡+ﾟ☆ﾟ+｡☆",
+      "name": "White Star Plus Sign",
+      "category": "star"
+    },
+    {
+      "symbol": "*⋆･ﾟ: *⋆･ﾟ:",
+      "name": "Minimalist Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "┊ ⋆ ┊ · ┊ ┊",
+      "name": "Ornamental Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "●★●★●★●★●",
+      "name": "Celestial Black Star",
+      "category": "star"
+    },
+    {
+      "symbol": "₊˚ʚ ᗢ₊˚⋆ ﾟ",
+      "name": "Modern Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "•◌•◌•☆•◌•◌•",
+      "name": "Twinkling White Star",
+      "category": "star"
+    },
+    {
+      "symbol": "☆。／｜＼。☆",
+      "name": "Stellar White Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✿✿✿",
+      "name": "Flower Sparkle",
+      "category": "sparkles"
+    },
+    {
+      "symbol": "➸",
+      "name": "Arrow Bullet",
+      "category": "bullets"
+    },
+    {
+      "symbol": "🍃 ✨ 🍃",
+      "name": "Nature Decor",
+      "category": "other"
+    },
+    {
+      "symbol": "✰",
+      "name": "Open Centre Star",
+      "category": "star"
+    },
+    {
+      "symbol": "❤･ﾟ:*｡.:*･ﾟ",
+      "name": "Decoration Long Heart",
+      "category": "star"
+    },
+    {
+      "symbol": "▪",
+      "name": "Small Square Bullet",
+      "category": "bullets"
+    },
+    {
+      "symbol": "✬",
+      "name": "Sparkling White Star",
+      "category": "star"
+    },
+    {
+      "symbol": "⋆ ☆",
+      "name": "Shining White Star Star Operator",
+      "category": "star"
+    },
+    {
+      "symbol": "┊ ┊ ✧˚",
+      "name": "Dazzling White Four Pointed Star",
+      "category": "star"
+    },
+    {
+      "symbol": "★",
+      "name": "★ Star",
+      "category": "star"
+    },
+    {
+      "symbol": "✦ ⋆ •",
+      "name": "Mini Stars",
+      "category": "sparkles"
+    },
+    {
+      "symbol": "───────",
+      "name": "Simple Line",
+      "category": "dividers"
+    },
+    {
+      "symbol": "✧ ─ ─ ─ ✧",
+      "name": "Star Divider",
+      "category": "dividers"
+    },
+    {
+      "symbol": "☆*:.｡.o(≧▽≦)o.｡.:*☆",
+      "name": "Kawaii Sparkle",
+      "category": "sparkles"
+    },
+    {
+      "symbol": "✧･ﾟ: *✧･ﾟ:*",
+      "name": "Tiny Sparkles",
+      "category": "sparkles"
+    }
+  ],
+  "source": "https://emojiio.com"
+}
