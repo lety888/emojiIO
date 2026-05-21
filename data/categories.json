@@ -1,0 +1,541 @@
+{
+  "total": 133,
+  "top_level": [
+    {
+      "slug": "people-body",
+      "name": "People & Body",
+      "subcategories": [
+        {
+          "slug": "open-hands",
+          "name": "Open Palm",
+          "count": 0
+        },
+        {
+          "slug": "skin-tone",
+          "name": "Skin Tone",
+          "count": 0
+        },
+        {
+          "slug": "finger-gesture",
+          "name": "Finger gesture",
+          "count": 0
+        },
+        {
+          "slug": "hair-style",
+          "name": "Hairstyle",
+          "count": 0
+        },
+        {
+          "slug": "pointing",
+          "name": "Pointing Gestures",
+          "count": 0
+        },
+        {
+          "slug": "fist",
+          "name": "Clenched hand",
+          "count": 0
+        },
+        {
+          "slug": "two-hands",
+          "name": "Two-Hand Gesture",
+          "count": 0
+        },
+        {
+          "slug": "holding",
+          "name": "Hand Holding Object",
+          "count": 0
+        },
+        {
+          "slug": "body-parts",
+          "name": "Body Parts",
+          "count": 0
+        },
+        {
+          "slug": "person",
+          "name": "People",
+          "count": 0
+        },
+        {
+          "slug": "person-gesture",
+          "name": "Person Gestures",
+          "count": 0
+        },
+        {
+          "slug": "job-role",
+          "name": "Profession and Role",
+          "count": 0
+        },
+        {
+          "slug": "fantasy",
+          "name": "Fictional character",
+          "count": 0
+        },
+        {
+          "slug": "activity",
+          "name": "Person Activity",
+          "count": 0
+        },
+        {
+          "slug": "sport",
+          "name": "Movement",
+          "count": 0
+        },
+        {
+          "slug": "resting",
+          "name": "Person Resting",
+          "count": 0
+        },
+        {
+          "slug": "family-couple",
+          "name": "Family and couples",
+          "count": 0
+        },
+        {
+          "slug": "person-symbol",
+          "name": "Person Symbols",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "food-drink",
+      "name": "Food & Drink",
+      "subcategories": [
+        {
+          "slug": "fruit",
+          "name": "Fruit",
+          "count": 0
+        },
+        {
+          "slug": "vegetable",
+          "name": "Vegetable",
+          "count": 0
+        },
+        {
+          "slug": "cooked-food",
+          "name": "Deli",
+          "count": 0
+        },
+        {
+          "slug": "asian-food",
+          "name": "Asian Food",
+          "count": 0
+        },
+        {
+          "slug": "dessert",
+          "name": "Dessert",
+          "count": 0
+        },
+        {
+          "slug": "drink",
+          "name": "Beverage",
+          "count": 0
+        },
+        {
+          "slug": "tableware",
+          "name": "Tableware",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "objects",
+      "name": "Objects",
+      "subcategories": [
+        {
+          "slug": "clothing",
+          "name": "Clothing",
+          "count": 0
+        },
+        {
+          "slug": "sound",
+          "name": "Sound",
+          "count": 0
+        },
+        {
+          "slug": "music",
+          "name": "Music",
+          "count": 0
+        },
+        {
+          "slug": "instrument",
+          "name": "Musical Instrument",
+          "count": 0
+        },
+        {
+          "slug": "phone",
+          "name": "Telephone",
+          "count": 0
+        },
+        {
+          "slug": "computer",
+          "name": "Computer",
+          "count": 0
+        },
+        {
+          "slug": "light-video",
+          "name": "Light and Video",
+          "count": 0
+        },
+        {
+          "slug": "book-paper",
+          "name": "Books & Paper",
+          "count": 0
+        },
+        {
+          "slug": "money",
+          "name": "Money",
+          "count": 0
+        },
+        {
+          "slug": "mail",
+          "name": "Mail",
+          "count": 0
+        },
+        {
+          "slug": "writing",
+          "name": "Writing",
+          "count": 0
+        },
+        {
+          "slug": "office",
+          "name": "Office",
+          "count": 0
+        },
+        {
+          "slug": "lock-key",
+          "name": "Lock and Key",
+          "count": 0
+        },
+        {
+          "slug": "tool",
+          "name": "Tool",
+          "count": 0
+        },
+        {
+          "slug": "technology",
+          "name": "Technology",
+          "count": 0
+        },
+        {
+          "slug": "medical",
+          "name": "Medical",
+          "count": 0
+        },
+        {
+          "slug": "household",
+          "name": "Home",
+          "count": 0
+        },
+        {
+          "slug": "other-object",
+          "name": "Other Objects",
+          "count": 0
+        },
+        {
+          "slug": "geometric-shape",
+          "name": "Shapes",
+          "count": 0
+        },
+        {
+          "slug": "keycap",
+          "name": "Keycap",
+          "count": 0
+        },
+        {
+          "slug": "math-symbol",
+          "name": "Math Symbols",
+          "count": 0
+        },
+        {
+          "slug": "punctuation",
+          "name": "Punctuation",
+          "count": 0
+        },
+        {
+          "slug": "squared-symbol",
+          "name": "Squared Symbols",
+          "count": 0
+        },
+        {
+          "slug": "other-symbol-emoji",
+          "name": "Other Symbols",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "symbols",
+      "name": "Symbols",
+      "subcategories": [
+        {
+          "slug": "text-punctuation",
+          "name": "Text & Punctuation",
+          "count": 0
+        },
+        {
+          "slug": "math-science",
+          "name": "Math & Science",
+          "count": 0
+        },
+        {
+          "slug": "direction-action",
+          "name": "Direction & Action",
+          "count": 0
+        },
+        {
+          "slug": "currency-special",
+          "name": "Currency & Special",
+          "count": 0
+        },
+        {
+          "slug": "decorative-misc",
+          "name": "Decorative & Misc",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "activities",
+      "name": "Activities",
+      "subcategories": [
+        {
+          "slug": "festival",
+          "name": "Festival",
+          "count": 0
+        },
+        {
+          "slug": "award-medal",
+          "name": "Awards and Medals",
+          "count": 0
+        },
+        {
+          "slug": "game",
+          "name": "Game",
+          "count": 0
+        },
+        {
+          "slug": "arts-crafts",
+          "name": "Arts and crafts",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "travel-places",
+      "name": "Travel & Places",
+      "subcategories": [
+        {
+          "slug": "map",
+          "name": "Map",
+          "count": 0
+        },
+        {
+          "slug": "scenery",
+          "name": "Natural Scenery",
+          "count": 0
+        },
+        {
+          "slug": "building",
+          "name": "Construction",
+          "count": 0
+        },
+        {
+          "slug": "religious-place",
+          "name": "Religious Places",
+          "count": 0
+        },
+        {
+          "slug": "other-place",
+          "name": "Other Places",
+          "count": 0
+        },
+        {
+          "slug": "ground-transport",
+          "name": "Land Transport",
+          "count": 0
+        },
+        {
+          "slug": "water-transport",
+          "name": "Water Transport",
+          "count": 0
+        },
+        {
+          "slug": "air-transport",
+          "name": "Air Transport",
+          "count": 0
+        },
+        {
+          "slug": "hotel",
+          "name": "Hotel",
+          "count": 0
+        },
+        {
+          "slug": "time",
+          "name": "Time",
+          "count": 0
+        },
+        {
+          "slug": "sky-weather",
+          "name": "Sky & Weather",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "flags",
+      "name": "Flags",
+      "subcategories": [
+        {
+          "slug": "flag",
+          "name": "Common flag",
+          "count": 0
+        },
+        {
+          "slug": "country-flag",
+          "name": "Country and region flags",
+          "count": 0
+        },
+        {
+          "slug": "subdivision-flag",
+          "name": "Special Region Flag",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "animals-nature",
+      "name": "Animals & Nature",
+      "subcategories": [
+        {
+          "slug": "mammal",
+          "name": "Mammal",
+          "count": 0
+        },
+        {
+          "slug": "bird",
+          "name": "Bird",
+          "count": 0
+        },
+        {
+          "slug": "amphibian",
+          "name": "Amphibian",
+          "count": 0
+        },
+        {
+          "slug": "reptile",
+          "name": "Reptiles",
+          "count": 0
+        },
+        {
+          "slug": "marine",
+          "name": "Marine Life",
+          "count": 0
+        },
+        {
+          "slug": "insect",
+          "name": "Insect",
+          "count": 0
+        },
+        {
+          "slug": "flower",
+          "name": "Flower",
+          "count": 0
+        },
+        {
+          "slug": "plant",
+          "name": "Other Plants",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "slug": "smileys-emotion",
+      "name": "Smileys & Emotion",
+      "subcategories": [
+        {
+          "slug": "smile",
+          "name": "Smiley face",
+          "count": 0
+        },
+        {
+          "slug": "affection",
+          "name": "Face with Love",
+          "count": 0
+        },
+        {
+          "slug": "tongue",
+          "name": "Face with Tongue Out",
+          "count": 0
+        },
+        {
+          "slug": "hand-gesture",
+          "name": "Face with Hand Gesture",
+          "count": 0
+        },
+        {
+          "slug": "neutral-skeptical",
+          "name": "Neutral and Skeptical Face",
+          "count": 0
+        },
+        {
+          "slug": "sleepy",
+          "name": "Sleepy Face",
+          "count": 0
+        },
+        {
+          "slug": "sick",
+          "name": "Sick Face",
+          "count": 0
+        },
+        {
+          "slug": "hat",
+          "name": "Face with Hat",
+          "count": 0
+        },
+        {
+          "slug": "glasses",
+          "name": "Face with glasses",
+          "count": 0
+        },
+        {
+          "slug": "worried",
+          "name": "Worried Face",
+          "count": 0
+        },
+        {
+          "slug": "negative",
+          "name": "Negative Emotion Face",
+          "count": 0
+        },
+        {
+          "slug": "costume",
+          "name": "Face with makeup",
+          "count": 0
+        },
+        {
+          "slug": "cat-emotion",
+          "name": "Cat Face",
+          "count": 0
+        },
+        {
+          "slug": "monkey",
+          "name": "Monkey Face",
+          "count": 0
+        },
+        {
+          "slug": "heart",
+          "name": "Love",
+          "count": 0
+        },
+        {
+          "slug": "emotion",
+          "name": "Emotion",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-05-21T16:44:15.125Z",
+  "source": "https://emojiio.com"
+}
